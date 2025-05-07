@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bettilt.tatlikahve.net/sitemap.xml
